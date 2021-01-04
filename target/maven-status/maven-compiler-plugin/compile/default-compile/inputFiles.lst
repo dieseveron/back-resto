@@ -1,0 +1,7 @@
+/Users/diegoveron/menu/src/main/java/com/ar/app/scan/menu/repository/MenuRepository.java
+/Users/diegoveron/menu/src/main/java/com/ar/app/scan/menu/domain/Menu.java
+/Users/diegoveron/menu/src/main/java/com/ar/app/scan/menu/model/MenuRestoRequest.java
+/Users/diegoveron/menu/src/main/java/com/ar/app/scan/menu/model/MenuRestoResponse.java
+/Users/diegoveron/menu/src/main/java/com/ar/app/scan/menu/MenuApplication.java
+/Users/diegoveron/menu/src/main/java/com/ar/app/scan/menu/endpoint/MenuEndpoint.java
+/Users/diegoveron/menu/src/main/java/com/ar/app/scan/menu/service/ServiceMenuList.java

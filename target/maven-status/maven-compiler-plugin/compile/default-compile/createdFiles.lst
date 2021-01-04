@@ -1,7 +1,0 @@
-com/ar/app/scan/menu/MenuApplication.class
-com/ar/app/scan/menu/model/MenuRestoResponse.class
-com/ar/app/scan/menu/endpoint/MenuEndpoint.class
-com/ar/app/scan/menu/domain/Menu.class
-com/ar/app/scan/menu/repository/MenuRepository.class
-com/ar/app/scan/menu/service/ServiceMenuList.class
-com/ar/app/scan/menu/model/MenuRestoRequest.class
